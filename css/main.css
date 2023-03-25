@@ -161,6 +161,9 @@ body {
     .subscribe input[type="text"] {
         margin-bottom: 3rem;
     }
+    .row.footer-row {
+    text-align: start;
+}
 }
 .footer {
     background-color: var(--dark-color);
